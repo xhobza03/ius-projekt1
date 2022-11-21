@@ -7,7 +7,7 @@ Navrhněte informační systém pro upíří krevní banku. Krevní banka si zve
 ## Diagramy
 
 - [ ] Model případu užití
-- [ ] ER diagram
+- [ ] ER diagram - **@Dast**
 - [ ] Diagram tříd
 - [ ] Sekvenční diagram
 - [ ] Diagram komunikace
@@ -17,8 +17,8 @@ Navrhněte informační systém pro upíří krevní banku. Krevní banka si zve
 
 - **dárce**
   - datum posledního odběru
-  - reagoval na zprávu - *dostavil se/nedostavil se*
-  - výsledek testu pro odběr - *krev může být odebrána/nemůže být odebrána*
+  - reagoval na zprávu - _dostavil se/nedostavil se_
+  - výsledek testu pro odběr - _krev může být odebrána/nemůže být odebrána_
 - **dávka**
   - výsledek testu vhodnosti ke konzumaci
   - vztahy:
@@ -31,3 +31,5 @@ Navrhněte informační systém pro upíří krevní banku. Krevní banka si zve
   - datum
 - **pobočka**
   - počet dávek
+  - vztahy:
+    - uskladňují **dávky**
