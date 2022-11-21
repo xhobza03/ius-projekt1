@@ -6,12 +6,12 @@ Navrhněte informační systém pro upíří krevní banku. Krevní banka si zve
 
 ## Diagramy
 
-- [ ] Model případu užití
+- [ ] Model případu užití - **@já**
 - [ ] ER diagram - **@Dast**
-- [ ] Diagram tříd
-- [ ] Sekvenční diagram
-- [ ] Diagram komunikace
-- [ ] Stavový diagram
+- [ ] Diagram tříd - **@Nasťa**
+- [ ] Sekvenční diagram - **@Kuba**
+- [ ] Diagram komunikace - **@Kuba**
+- [ ] Stavový diagram - **@Katy**
 
 ## Entity
 
