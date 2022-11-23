@@ -18,7 +18,7 @@ Všechny modely musí splňovat funkcionalitu a být konzistentní, to znamená 
 
 ## 📊 Diagramy
 
-- [ ] Model případu užití - **@já**
+- [x] Model případu užití - **@já**
 - [ ] ER diagram - **@Dast**
 - [ ] Diagram tříd - **@Nasťa**
 - [ ] Sekvenční diagram - **@Kuba**
